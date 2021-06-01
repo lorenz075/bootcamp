@@ -1,2 +1,2 @@
 # bootcamp
-Projeto criado para o bootcamp DIO - Santander
+Backend feito com SpringBoot para o bootcamp Santander DIO.
